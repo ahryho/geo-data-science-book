@@ -42,3 +42,5 @@ config.rst
 package-lock.json
 geckodriver.log
 *.iml
+
+Ebook-Becoming-Spatial-Data-Scientist.pdf
